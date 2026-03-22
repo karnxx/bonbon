@@ -33,7 +33,7 @@ https://hackclub.com \
 the earlier design  didnt really work out, so i remade it and i printed a test.. which actually worked11!!
 ![alt text](images/image-3.png)
 
-after that i designed so everything wud be able to fit on this. i also added this lip layer thing so that it wudnt be able to rotate freely in the sphere, and also added notches so it wudnt be rotating there. im gonna be super gluing this also, instead of relying on the joint. also added some space between the circle snap thing.
+after that i designed so everything wud be able to fit on this. i also added this lip layer thing so that it wudnt be able to rotate freely in the sphere, and also added notches so it wudnt be rotating there. im gonna be super gluing this also, instead of relying on the joint. also addesd some space between the circle snap thing.
 
 ![alt text](images/image-6.png)
 ![alt text](images/image-5.png)
@@ -43,4 +43,4 @@ now ill set it to print and update the results here
 
 https://hackclub.com \
 https://hackclub.com \
-**Total time spent: 45 mins**
+**Total time spent: 27 mins**
