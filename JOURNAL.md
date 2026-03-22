@@ -46,6 +46,12 @@ ok so it fits nice, and is easy to remove and all. then uhh themiddle part just 
 ![alt text](images/image-9.png)
 ![alt text](images/image-10.png)
 
+aight so i printed the new set and i think it came out rlly well. it just needs a bit sanding and a few more tweaks.
+
+![alt text](images/image-11.png)
+![alt text](images/image-13.png)
+![alt text](images/image-14.png)
+
 https://lapse.hackclub.com/timelapse/miGNqXrjUI7L \
 https://lapse.hackclub.com/timelapse/nTVNja44oHZ4 \
 **Total time spent: 30 mins**
