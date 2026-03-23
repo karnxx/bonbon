@@ -55,3 +55,22 @@ aight so i printed the new set and i think it came out rlly well. it just needs 
 https://lapse.hackclub.com/timelapse/miGNqXrjUI7L \
 https://lapse.hackclub.com/timelapse/nTVNja44oHZ4 \
 **Total time spent: 30 mins**
+
+# March 23 2026: made eyelids and the main housing.
+today i made the eyelids. they follow a rlly simple system. as you can see, the top eyelids will be controlled by 1 servo while the other two by another. so they connect togehter in the middle area
+![alt text](images/image-15.png)
+(right eye btw)
+
+
+so tmrw ill just mirror this, set appropriate distance between these individual eye system, and like myabe ill be finished by tmrw. heres the whole thing btw
+
+![alt text](images/image-16.png)
+
+oh yeh, im also gonna be using ball link joint to make it more versatile. also using sg90 servos
+
+![alt text](images/image-17.png)
+
+well my confidence is kinda low, idk if ill be able to finish this prj. 
+
+https://lapse.hackclub.com/timelapse/-Gv8fdGwFlrq \
+**Total time spent: 90 mins**
