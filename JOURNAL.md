@@ -74,3 +74,16 @@ well my confidence is kinda low, idk if ill be able to finish this prj.
 
 https://lapse.hackclub.com/timelapse/-Gv8fdGwFlrq \
 **Total time spent: 90 mins**
+
+# March 24 2026: made both eyes and eyelid system, mouth and ear systems started.
+so today  i made both the eyes, and the 2 servos for the eyelids. then for the mouth system, im gonna use thread tied to a servo, which is tied to the mouth. its a simple mechanism, and less part of the mechanism is seen. then for the ears, i wanted to hve the same kinda system but im kinda lost. if i were to tie threads, then there wud be no way of getting the ears to stand upright again. so maybe i will have to directly connect the servo to it or ihave another idea, that we can make the ear rotate around a hinge/pivot so that i can rotate with servo and like the ear has 2 parts, the base and the top, so the top will also be in a hinge with the base, ad the base to the head, and like yeah thats it.
+![alt text](images/image-18.png)
+![alt text](images/image-19.png)
+
+thr will be a compartment under the eye system to have another servo in, which controls the mouth.  and above the eyelid servos will be the ear servos.
+
+![alt text](images/image-20.png)
+
+https://lapse.hackclub.com/timelapse/Znfbiogx-C5f \
+https://lapse.hackclub.com/timelapse/NDLfO3voyw2G \
+**Total time spent: 80 mins**
