@@ -87,3 +87,40 @@ thr will be a compartment under the eye system to have another servo in, which c
 https://lapse.hackclub.com/timelapse/Znfbiogx-C5f \
 https://lapse.hackclub.com/timelapse/NDLfO3voyw2G \
 **Total time spent: 80 mins**
+
+
+# March 25 2026: ear system
+so like the ear system is simple, the ear is gonna have a pivot to rotate on, and the servo will like rotate to rotate the ears. maybe ill make it so that the other side of the servo controls the upper part of the ear, so like when it goes towards the eye, theear will curl and vice versa.
+
+but more importantly, the neck system. i have 2 different ideas for now.
+- first that we use mechanic that eyes use. so like there will be a cross type thing, 2 servos control like the side and bring it down and all, ykwhat it wud be easier to explain with an img.
+![alt text](images/image-21.png) by smith robotics btw \
+-or we use this system, where 2 servos control side to side and another for tilt, but it wud put strain on the servos, so like shi.
+![alt text](images/image-22.png) by foxlabs 
+- orr smtn like this
+![alt text](images/image-23.png) by hendrikxworkshop
+- or we cud use pneumatics or linear actuators, but cost would be too much...
+
+aight i think ima go with the 2nd one. 
+https://lapse.hackclub.com/timelapse/CyRsjBEQdOK- \
+(btw i synced the wrong project from lapse to my hackatime prj) \
+**Total time spent: 23 mins**
+
+
+# March 30 2026: neckkk
+omfg this was so hard. so there were problems with the earlier design type i wanted to choose, namely too much stress on the servos. so i decided to make like a different type of neck thing. so i thought of many which took me alotta days.
+so today i thought of this design, using a cardan joint:
+
+![alt text](images/image-24.png)
+(ikik im the best at drawing)
+
+so this would remove the stress, and ike concentrate it to the rotational. but then i saw [this](https://www.youtube.com/watch?v=a3hMkZzgGIY) one yt vid, whr they had the same problem, and they used a normal servo, but concentrated the weight on the bearings instead, which was perfect for my use. and about the ear, thrs just gonna be a string which needs to go through the ear hole thing. yeah for now its looking quite good, but its gonna get a lot more compicated now. ok so now we have to make the body with the hands. this animatronic doesnt have legs, instead its gonna be stuck to the ground and has like a backbone type thing which is controlled by 3 servos at the base. and i havent done any research about the arm so yeah. (my confidence is decreasing againn..)
+anyways heres the bot:
+
+![alt text](images/image-25.png)
+![alt text](images/image-26.png)
+![alt text](images/image-27.png)
+![alt text](images/image-28.png)
+
+https://lapse.hackclub.com/timelapse/1hOzd2pi9AwY \
+**Total time spent: 23 mins**
