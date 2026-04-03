@@ -107,11 +107,11 @@ https://lapse.hackclub.com/timelapse/CyRsjBEQdOK- \
 **Total time spent: 23 mins**
 
 
-# March 30 2026: neckkk
+# March 30 2026: neckk
 omfg this was so hard. so there were problems with the earlier design type i wanted to choose, namely too much stress on the servos. so i decided to make like a different type of neck thing. so i thought of many which took me alotta days.
 so today i thought of this design, using a cardan joint:
 
-![alt text](images/image-24.png)
+![alt text](images/image-24.png) \
 (ikik im the best at drawing)
 
 so this would remove the stress, and ike concentrate it to the rotational. but then i saw [this](https://www.youtube.com/watch?v=a3hMkZzgGIY) one yt vid, whr they had the same problem, and they used a normal servo, but concentrated the weight on the bearings instead, which was perfect for my use. and about the ear, thrs just gonna be a string which needs to go through the ear hole thing. yeah for now its looking quite good, but its gonna get a lot more compicated now. ok so now we have to make the body with the hands. this animatronic doesnt have legs, instead its gonna be stuck to the ground and has like a backbone type thing which is controlled by 3 servos at the base. and i havent done any research about the arm so yeah. (my confidence is decreasing againn..)
@@ -123,4 +123,21 @@ anyways heres the bot:
 ![alt text](images/image-28.png)
 
 https://lapse.hackclub.com/timelapse/1hOzd2pi9AwY \
-**Total time spent: 23 mins**
+**Total time spent: 60 mins**
+
+
+# April 2 2026: redesign mouth and neck
+aight so, i had do scrap the endo mouth idea.. this was mainly because the space between the lower jaw and the torso was too much. anyways, it looks much better now, and for the torso, im gonna make it so that it can spin around the spine, and i also scrapped the organic spine since its not required. after that, the entire spine will be controlled by 3 servos in a delta movement type. so the servo wil be attached to the spine via a 6009 bearing, where id is 45mm. and then our servo will be having gear and the spine willalso have a gear. then yeah rotating torso. here are some images:
+
+before: \
+![alt text](images/image-30.png)
+
+after: \
+![alt text](images/image-29.png)
+
+
+it looks alot cleaner now. aight so for tmrw, i have to find a way to make the bearings get mounted on the shaft, to install bearings on the torso, i havent decided yet whether to directly, pause print then put the bearing and resume print or to make another part which will require bolts to mount to the torso.. or i could print the spine in 2, slide bearing and yeah, orr i could pause print and install the bearing directly on spine, but then that would be bbad for mounting. i havent rlly added alot of screws and all to the 3d model, i was thinking to do tht at the end.
+
+https://lapse.hackclub.com/timelapse/krj9sUdxkGHx \
+**Total time spent: 60 mins**
+
