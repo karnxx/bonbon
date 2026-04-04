@@ -141,3 +141,11 @@ it looks alot cleaner now. aight so for tmrw, i have to find a way to make the b
 https://lapse.hackclub.com/timelapse/krj9sUdxkGHx \
 **Total time spent: 60 mins**
 
+# April 3 2026: torso movement
+my plan for the torso it that it can rotate itself too. so like what i did today, is that i first made a mount for the bearing, 6009, so that it can go on the spine. so like this will be print in place, so ill have to put the bearing while print is paused. then these extend to 2 rectangular things tht the torso will be on, and a scre will be thr preferably either m4 or m5. then for the servo, i had a gear ratio of servo to the spine of about 15:28, so its still gonna be slower. anyways the bearing is paused print and will contains holes on the mountso that it can be screwed in. at the end my fusion crashed and i gave up lol, it was very slow. 
+![alt text](images/image-31.png)
+![alt text](images/image-32.png)
+![alt text](images/image-33.png) 
+
+https://lapse.hackclub.com/timelapse/cSkal16kF115 \
+**Total time spent: 55 mins**
