@@ -149,3 +149,21 @@ my plan for the torso it that it can rotate itself too. so like what i did today
 
 https://lapse.hackclub.com/timelapse/cSkal16kF115 \
 **Total time spent: 55 mins**
+
+# April 5 2026: ARMS!
+aight so i finished the arms in 1 day lol. basically the arm consists of 2 joints, shoulder and elbow. both 2 dof. ive done the shoulder joint my implementation of what i understood of this: \
+![alt text](images/image-34.png) \
+[from here](https://www.youtube.com/shorts/eS1hgH4-Uzs)
+so like 1 servo rotates the arm, and 1 controls the tilt, very simple, while also limiting the movement because the tilt is based on the freedom of rotation ball links that connect them together. the tilt also depends on the length of the rod between the ball links. then the elbow joint is also pretty simple, consisting of 2 servos, and yeah this image should explain it. if not then watch this (vid)[https://www.youtube.com/watch?v=xflvEGV2g5A], its rlly good about simple animatronics. \
+![alt text](images/image-35.png) \
+ this huge progress was because i had an exam and thus i was preparing for it, leaving me with no time to work on this. after this i just have the spine movement and then were done! acc were not, because i have to make the screw holes and ill try to find a way to make the eyes bigger. heres how it looks like:
+ ![alt text](images/image-36.png) \
+(ignore the ears, ill swap them for better ones) \ 
+![alt text](images/image-37.png) \
+![alt text](images/image-38.png) \
+btw ive been using (this bonbon animatronic by VomitedThoughts)[https://www.thingiverse.com/thing:7190069] for the exoskeleton.
+and for the hand, i may add a servo in the torso which will have strings to the hand. but i think thts too excess yk.
+
+https://lapse.hackclub.com/timelapse/9guGHKM7eV-Y \
+https://lapse.hackclub.com/timelapse/gGWLU0hz1oCb \
+**Total time spent: 98 mins**
