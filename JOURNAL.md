@@ -167,3 +167,42 @@ and for the hand, i may add a servo in the torso which will have strings to the 
 https://lapse.hackclub.com/timelapse/9guGHKM7eV-Y \
 https://lapse.hackclub.com/timelapse/gGWLU0hz1oCb \
 **Total time spent: 98 mins**
+
+# April  2026: The End
+ALR so the cad process is over.
+i did this all in one log bcuz i forgot to do other days logs, alr lemme explain the things i did 1by1
+-first i made the ears, the ears will be conecnted a servo inside the head, which also has a string. then the top part of the ear can tilt front and back. so liek good ears ig. also to attach the rod thing to the ear i make the slot a lil bigger and also will use super glue/hot glue. so heres some pics of the ear. 
+
+![alt text](images/image-39.png)
+![alt text](images/image-40.png)
+
+-after that i made the spine which follows a delta-type movement. heres some pics. here ive switched from typical servos to a MG996R, which is required for the immense pressure. also theres another cardan joint here, which will be printed in high infill.
+
+![alt text](images/image-42.png)
+![alt text](images/image-41.png)
+
+-so i decided to ditch the eyes making bigger and made this my own adaptation of bonbon. 
+
+![alt text](images/image-43.png)
+
+-after that i cut the main head into many pieces so that it wud be easy to print, with less overhangs. 
+
+![alt text](images/image-44.png)
+
+-then for the nose, i extruded some part of the main head, and made a moutn for the nose. 
+
+![alt text](images/image-45.png)
+
+-for the head, i removed the existing mounts and added my own mounts to go with my bonbons head.
+
+![alt text](images/image-46.png)
+
+-after that for the lower jaw, i made kind of a pivot thing taht connects to the main head. the jaw is controlled by servo by string.
+
+![alt text](images/image-47.png)
+
+
+![alt text](images/image-48.png)
+https://lapse.hackclub.com/timelapse/ITjfcc8l0LcY \
+https://lapse.hackclub.com/timelapse/vf3MrfMEJtNR \
+**Total time spent: 305 mins**
