@@ -1,5 +1,3 @@
-
-
 # BONBON
 ### Animatronic from FNAF(Five Nights At Freddy's: Sister Localtion). This is basically a puppet of another animatronic, funtime freddy. so this animatronic features a 3dof head, eyes with eyelids, a mouth, and movable ears, 3 dof delta spine, 2 dof arms with 2 dof elbows, and the torso is indipendent, which means it can also move on its own. and the animatronic exos were taken from [@VomitedThoughts'](https://www.thingiverse.com/VomitedThoughts/designs) [BonBon Animatronic NHI](https://www.thingiverse.com/thing:7190069), huge thx to him! Eye mechs inspired from [Will Cogley's](https://www.youtube.com/@WillCogley) vid [How to Make a Compact Animatronic Eye Mechanism with 3D Printing and Arduino](https://www.youtube.com/watch?v=ihXxbQefl1c&list=WL&index=4&t=775s).
 
@@ -23,3 +21,5 @@
 ## ELECTRICALS
 - heres the wiring diagram
 - im gonna be using an rpi pico for 16 of the servos, then the 3 mg995 ill be using a breadboard.
+<img width="652" height="841" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/178d52b8-da5d-4ac9-8a15-c150778bbc1c" />
+
