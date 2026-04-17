@@ -1,7 +1,7 @@
 
 
 # BONBON
-### Animatronic from FNAF(Five Nights At Freddy's: Sister Localtion). This is basically a puppet of another animatronic, funtime freddy. so this animatronic features a 3dof head, eyes with eyelids, a mouth, and movable ears, 3 dof delta spine, 2 dof arms with 2 dof elbows, and the torso is indipendent, which means it can also move on its own. and the animatronic exos were taken from [@VomitedThoughts'](https://www.thingiverse.com/VomitedThoughts/designs) [BonBon Animatronic NHI](https://www.thingiverse.com/thing:7190069), huge thx to him! Eye mechs inspired from [Will Cogley's](https://www.youtube.com/@WillCogley) vid [How to Make a Compact Animatronic Eye Mechanism with 3D Printing and Arduino](https://www.youtube.com/watch?v=ihXxbQefl1c&list=WL&index=4&t=775s)
+### Animatronic from FNAF(Five Nights At Freddy's: Sister Localtion). This is basically a puppet of another animatronic, funtime freddy. so this animatronic features a 3dof head, eyes with eyelids, a mouth, and movable ears, 3 dof delta spine, 2 dof arms with 2 dof elbows, and the torso is indipendent, which means it can also move on its own. and the animatronic exos were taken from [@VomitedThoughts'](https://www.thingiverse.com/VomitedThoughts/designs) [BonBon Animatronic NHI](https://www.thingiverse.com/thing:7190069), huge thx to him! Eye mechs inspired from [Will Cogley's](https://www.youtube.com/@WillCogley) vid [How to Make a Compact Animatronic Eye Mechanism with 3D Printing and Arduino](https://www.youtube.com/watch?v=ihXxbQefl1c&list=WL&index=4&t=775s).
 
 ## [BOM](https://docs.google.com/spreadsheets/d/1VHbBl1pK4IkEiJHbse9l7TyNy_vx4ArTAp4to9fVv3g/edit?usp=sharing)
 - Google sheets, ive alr included the parts i have, and whats most convinient for me rn - the psu, u can use any power around 5-6v, with 13-15 amps.
@@ -20,3 +20,6 @@
 <img width="786" height="349" alt="image" src="https://github.com/user-attachments/assets/17c03c71-196f-4156-92dc-28576e9b2ceb" />
 <img width="743" height="297" alt="image" src="https://github.com/user-attachments/assets/0a45225d-b1ea-44f6-8fc5-2d4ea7679944" />
 
+## ELECTRICALS
+- heres the wiring diagram
+- im gonna be using an rpi pico for 16 of the servos, then the 3 mg995 ill be using a breadboard.
