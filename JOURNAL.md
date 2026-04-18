@@ -168,7 +168,7 @@ https://lapse.hackclub.com/timelapse/9guGHKM7eV-Y \
 https://lapse.hackclub.com/timelapse/gGWLU0hz1oCb \
 **Total time spent: 98 mins**
 
-# April  2026: The End
+# April 7 2026: The End
 ALR so the cad process is over.
 i did this all in one log bcuz i forgot to do other days logs, alr lemme explain the things i did 1by1
 -first i made the ears, the ears will be conecnted a servo inside the head, which also has a string. then the top part of the ear can tilt front and back. so liek good ears ig. also to attach the rod thing to the ear i make the slot a lil bigger and also will use super glue/hot glue. so heres some pics of the ear. 
@@ -206,3 +206,7 @@ i did this all in one log bcuz i forgot to do other days logs, alr lemme explain
 https://lapse.hackclub.com/timelapse/ITjfcc8l0LcY \
 https://lapse.hackclub.com/timelapse/vf3MrfMEJtNR \
 **Total time spent: 305 mins**
+
+# April 15 2026: (not rlly)The End
+so ive ordered the parts, mainly the ball links and the m2 threadded rods. im gonna make a prototype of the eyes b4 moving on to the rest. ive also made the bom, which tells u which parts to buy. i alr have the rpi pico, and the 16 channel servo controller. https://docs.google.com/spreadsheets/d/1VHbBl1pK4IkEiJHbse9l7TyNy_vx4ArTAp4to9fVv3g/edit?usp=sharing.
+**Total time spent: 40 mins**
