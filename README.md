@@ -6,7 +6,9 @@
   - 11 × SG90 → ~0.25A peak each → ~2.75A
   - 5 × MG90S → ~0.7A peak each → ~3.5A
   - 3 × MG995 → ~2.5A peak each → ~7.5A
-
+  
+ <img width="981" height="530" alt="image" src="https://github.com/user-attachments/assets/31289e10-c6e7-4dc0-a3a2-a62076a1bf2a" />
+    
 ## [CAD](https://gmail4855044.autodesk360.com/g/shares/SH90d2dQT28d5b602811fb614439d378a375)
 - Cadded on fusion360, which is a great design tool. i also have included the timelapses of me designing bonbon in my journal.
 - Ive also added clearances, and you do need inserts for this project.
