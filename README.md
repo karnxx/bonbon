@@ -29,3 +29,5 @@
 - im gonna be using an rpi pico for 16 of the servos, then the 3 mg995 ill be using a breadboard.
 <img width="652" height="841" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/178d52b8-da5d-4ac9-8a15-c150778bbc1c" />
 
+# NO AI WAS USED
+
